@@ -1,0 +1,2 @@
+C:\My_projects\KS_Lab2_Server\x64\Debug\KS_Lab2_Server.exe
+D:\MyProjects_C++\KS_Lab2_Server\x64\Debug\KS_Lab2_Server.exe

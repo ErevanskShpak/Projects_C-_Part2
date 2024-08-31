@@ -1,0 +1,1 @@
+C:\My_projects\testClient\x64\Debug\testClient.exe

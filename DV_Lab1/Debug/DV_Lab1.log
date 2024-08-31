@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\MyProjects_C++\DV_Lab1\Source.cpp(22,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DV_Lab1.vcxproj -> D:\MyProjects_C++\DV_Lab1\Debug\DV_Lab1.exe

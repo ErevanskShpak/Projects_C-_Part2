@@ -1,0 +1,2 @@
+C:\My_projects\KS_Lab1_Client\x64\Debug\KS_Lab1_Client.exe
+D:\MyProjects_C++\KS_Lab1_Client\x64\Debug\KS_Lab1_Client.exe

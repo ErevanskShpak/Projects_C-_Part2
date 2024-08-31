@@ -1,0 +1,7 @@
+﻿  Dv_6.cpp
+D:\MyProjects_C++\DV_Lab6\Dv_6.cpp(21,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\MyProjects_C++\DV_Lab6\Dv_6.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\DV_Lab6\Dv_6.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\DV_Lab6\Dv_6.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\DV_Lab6\Dv_6.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+  DV_Lab6.vcxproj -> D:\MyProjects_C++\DV_Lab6\Debug\DV_Lab6.exe

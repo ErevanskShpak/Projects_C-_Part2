@@ -1,0 +1,10 @@
+﻿  Input.cpp
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(73,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(78,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(109,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(114,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(138,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(143,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(167,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MyProjects_C++\KS_Lab3_Server\Input.cpp(172,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KS_Lab3_Server.vcxproj -> D:\MyProjects_C++\KS_Lab3_Server\x64\Debug\KS_Lab3_Server.exe

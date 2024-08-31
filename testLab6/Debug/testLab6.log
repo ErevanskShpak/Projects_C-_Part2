@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\MyProjects_C++\testLab6\Source.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\testLab6\Source.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+  testLab6.vcxproj -> D:\MyProjects_C++\testLab6\Debug\testLab6.exe

@@ -1,0 +1,3 @@
+﻿  GLUTtest.cpp
+D:\MyProjects_C++\GLUTtest\GLUTtest.cpp(21,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GLUTtest.vcxproj -> D:\MyProjects_C++\GLUTtest\Debug\GLUTtest.exe

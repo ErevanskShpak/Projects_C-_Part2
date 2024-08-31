@@ -1,0 +1,9 @@
+﻿  StudArray.cpp
+C:\My_projects\OOP_CourseWork\StudArray.cpp(125,36): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\My_projects\OOP_CourseWork\Input.h(60,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\My_projects\OOP_CourseWork\StudArray.cpp(96,16): message : see reference to function template instantiation 'float Input::inputNumber<int>(T,T,std::string)' being compiled
+          with
+          [
+              T=int
+          ]
+  OOP_CourseWork.vcxproj -> C:\My_projects\OOP_CourseWork\x64\Debug\OOP_CourseWork.exe

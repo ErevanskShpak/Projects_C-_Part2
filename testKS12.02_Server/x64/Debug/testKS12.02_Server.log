@@ -1,0 +1,6 @@
+﻿  testKS12.02_Server.cpp
+C:\My_projects\testKS12.02_Server\testKS12.02_Server.cpp(24,8): warning C4101: 'buf': unreferenced local variable
+C:\My_projects\testKS12.02_Server\testKS12.02_Server.cpp(24,28): warning C4101: 'b': unreferenced local variable
+C:\My_projects\testKS12.02_Server\testKS12.02_Server.cpp(24,18): warning C4101: 'res': unreferenced local variable
+C:\My_projects\testKS12.02_Server\testKS12.02_Server.cpp(24,38): warning C4101: 'Res': unreferenced local variable
+  testKS12.02_Server.vcxproj -> C:\My_projects\testKS12.02_Server\x64\Debug\testKS12.02_Server.exe

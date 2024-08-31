@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\MyProjects_C++\test10.05\Source.cpp(19,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\MyProjects_C++\test10.05\Source.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\test10.05\Source.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\test10.05\Source.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects_C++\test10.05\Source.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+  test10.05.vcxproj -> D:\MyProjects_C++\test10.05\Debug\test10.05.exe
